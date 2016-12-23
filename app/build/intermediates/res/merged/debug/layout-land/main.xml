@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:id="@+id/root"
+    style="@style/LayoutOne">
+
+    <Chronometer
+        android:id="@+id/chronometer"
+        style="@style/ChronometrCount" />
+
+    <TextView
+        android:id="@+id/textView1"
+        style="@style/ButtonChronometrOne" />
+
+    <LinearLayout
+        android:id="@+id/LinearLayout01"
+        style="@style/ButtonChronometrOne"
+        android:weightSum="1">
+
+        <ImageButton
+            android:id="@+id/button_start"
+            style="@style/ImageChronometrOne"
+            android:background="@drawable/rounded_bt_start"
+            android:src="@drawable/button_blue_play"
+            android:text="@string/start" />
+
+        <ImageButton
+            android:id="@+id/button_stop"
+            style="@style/ImageChronometrOne"
+            android:background="@drawable/rounded_bt_res_stop"
+            android:src="@drawable/button_blue_stop"
+            android:text="@string/stop" />
+
+        <ImageButton
+            android:id="@+id/button_reset"
+            style="@style/ImageChronometrOne"
+            android:background="@drawable/rounded_bt_res_stop"
+            android:src="@drawable/button_blue_repeat"
+            android:text="@string/reset" />
+
+        <ImageButton
+            android:id="@+id/save_results"
+            style="@style/ImageChronometrOne"
+            android:background="@drawable/rounded_bt_save"
+            android:src="@drawable/button_blue_save"
+            android:text="@string/save" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView2"
+        style="@style/ButtonChronometrOne" />
+
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Просто Хронометр</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="reset">Скидання</string>
+    <string name="save">Зберегти</string>
+    <string name="saved">Збережені значення:</string>
+    <string name="view">Перегляд значень</string>
+    <string name="clear">Видалення значень</string>
+    <string name="exit">Вихід</string>
+    <string name="menu_exit">Ви впевнені, що хочете вийти?</string>
+    <string name="menu_ok">Да</string>
+    <string name="menu_cancel">Ні</string>
+
+
+    <string name="info_start">Старт</string>
+    <string name="info_stop">Стоп</string>
+    <string name="info_reset">Скидання</string>
+    <string name="info_save">Збереження значення</string>
+    <string name="info_view">Перегляд збережених значень</string>
+    <string name="info_clear">Збережені значення видалені</string>
+    <string name="title_activity_result">Перегляд збережених значень</string>
+</resources>

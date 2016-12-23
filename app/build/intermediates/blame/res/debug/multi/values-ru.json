@@ -1,0 +1,919 @@
+[
+    {
+        "outputFile": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru\\values-ru.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 53,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 53,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 50,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endColumn": 50,
+                        "endOffset": 424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 260,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3471,
+                        "endColumn": 264,
+                        "endOffset": 3731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endColumn": 108,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1300,
+                        "endColumn": 108,
+                        "endOffset": 1404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 580,
+                    "endColumn": 197,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 201,
+                        "endOffset": 1295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 778,
+                    "endColumn": 127,
+                    "endOffset": 901
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 970,
+                        "endColumn": 127,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 906,
+                    "endColumn": 111,
+                    "endOffset": 1013
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 858,
+                        "endColumn": 111,
+                        "endOffset": 965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1018,
+                    "endColumn": 206,
+                    "endOffset": 1220
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 210,
+                        "endOffset": 641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1225,
+                    "endColumn": 207,
+                    "endOffset": 1428
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 646,
+                        "endColumn": 211,
+                        "endOffset": 853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1433,
+                    "endColumn": 130,
+                    "endOffset": 1559
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 130,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1564,
+                    "endColumn": 157,
+                    "endOffset": 1717
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2715,
+                        "endColumn": 157,
+                        "endOffset": 2868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1722,
+                    "endColumn": 129,
+                    "endOffset": 1847
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2585,
+                        "endColumn": 129,
+                        "endOffset": 2710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1852,
+                    "endColumn": 175,
+                    "endOffset": 2023
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2409,
+                        "endColumn": 175,
+                        "endOffset": 2580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2028,
+                    "endColumn": 117,
+                    "endOffset": 2141
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2291,
+                        "endColumn": 117,
+                        "endOffset": 2404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2146,
+                    "endColumn": 133,
+                    "endOffset": 2275
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 133,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2280,
+                    "endColumn": 151,
+                    "endOffset": 2427
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4168,
+                        "endColumn": 151,
+                        "endOffset": 4315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2432,
+                    "endColumn": 142,
+                    "endOffset": 2570
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4025,
+                        "endColumn": 142,
+                        "endOffset": 4163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2575,
+                    "endColumn": 168,
+                    "endOffset": 2739
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3856,
+                        "endColumn": 168,
+                        "endOffset": 4020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2744,
+                    "endColumn": 119,
+                    "endOffset": 2859
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3736,
+                        "endColumn": 119,
+                        "endOffset": 3851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2864,
+                    "endColumn": 250,
+                    "endOffset": 3110
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-ru\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 254,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3115,
+                    "endColumn": 263,
+                    "endOffset": 3374
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2996,
+                        "endColumn": 267,
+                        "endOffset": 3259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3379,
+                    "endColumn": 122,
+                    "endOffset": 3497
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2873,
+                        "endColumn": 122,
+                        "endOffset": 2991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3502,
+                    "endColumn": 108,
+                    "endOffset": 3606
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3264,
+                        "endColumn": 108,
+                        "endOffset": 3368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3611,
+                    "endColumn": 197,
+                    "endOffset": 3804
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1537,
+                        "endColumn": 201,
+                        "endOffset": 1734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3809,
+                    "endColumn": 127,
+                    "endOffset": 3932
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1409,
+                        "endColumn": 127,
+                        "endOffset": 1532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3937,
+                    "endColumn": 225,
+                    "endOffset": 4158
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2061,
+                        "endColumn": 229,
+                        "endOffset": 2286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4163,
+                    "endColumn": 133,
+                    "endOffset": 4292
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1927,
+                        "endColumn": 133,
+                        "endOffset": 2056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 4297,
+                    "endColumn": 187,
+                    "endOffset": 4480
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1739,
+                        "endColumn": 187,
+                        "endOffset": 1922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 4485,
+                    "endColumn": 97,
+                    "endOffset": 4578
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3373,
+                        "endColumn": 97,
+                        "endOffset": 3466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4583,
+                    "endColumn": 89,
+                    "endOffset": 4668
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4320,
+                        "endColumn": 89,
+                        "endOffset": 4405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4673,
+                    "endColumn": 115,
+                    "endOffset": 4784
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-ru\\base_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4410,
+                        "endColumn": 115,
+                        "endOffset": 4521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4789,
+                    "endColumn": 38,
+                    "endOffset": 4823
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 429,
+                        "endColumn": 38,
+                        "endOffset": 463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4828,
+                    "endColumn": 67,
+                    "endOffset": 4891
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 67,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4896,
+                    "endColumn": 44,
+                    "endOffset": 4936
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 44,
+                        "endOffset": 749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4941,
+                    "endColumn": 57,
+                    "endOffset": 4994
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 754,
+                        "endColumn": 57,
+                        "endOffset": 807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4999,
+                    "endColumn": 44,
+                    "endOffset": 5039
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 44,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 5044,
+                    "endColumn": 42,
+                    "endOffset": 5082
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 42,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 5087,
+                    "endColumn": 67,
+                    "endOffset": 5150
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 812,
+                        "endColumn": 67,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5155,
+                    "endColumn": 43,
+                    "endOffset": 5194
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endColumn": 43,
+                        "endOffset": 614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5199,
+                    "endColumn": 67,
+                    "endOffset": 5262
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 468,
+                        "endColumn": 67,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5267,
+                    "endColumn": 38,
+                    "endOffset": 5301
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 38,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5306,
+                    "endColumn": 39,
+                    "endOffset": 5341
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 39,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5346,
+                    "endColumn": 42,
+                    "endOffset": 5384
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 42,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5389,
+                    "endColumn": 55,
+                    "endOffset": 5440
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 55,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5445,
+                    "endColumn": 39,
+                    "endOffset": 5480
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 39,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5485,
+                    "endColumn": 37,
+                    "endOffset": 5518
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 37,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5523,
+                    "endColumn": 79,
+                    "endOffset": 5598
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 948,
+                        "endColumn": 79,
+                        "endOffset": 1023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5603,
+                    "endColumn": 50,
+                    "endOffset": 5649
+                },
+                "from": {
+                    "file": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 50,
+                        "endOffset": 373
+                    }
+                }
+            }
+        ]
+    }
+]

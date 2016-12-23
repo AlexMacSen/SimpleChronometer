@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_press_save.xml",
+        "source": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\drawable-hdpi\\button_press_save.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_pressed.xml",
+        "source": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\drawable-hdpi\\button_pressed.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rounded_bt_save.xml",
+        "source": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\drawable-hdpi\\rounded_bt_save.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rounded_bt_start.xml",
+        "source": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\drawable-hdpi\\rounded_bt_start.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rounded_bt_res_stop.xml",
+        "source": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\drawable-hdpi\\rounded_bt_res_stop.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button.xml",
+        "source": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\drawable-hdpi\\button.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_press_start.xml",
+        "source": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\drawable-hdpi\\button_press_start.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\round_left.xml",
+        "source": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\drawable-hdpi\\round_left.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\round_rigt.xml",
+        "source": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\drawable-hdpi\\round_rigt.xml"
+    }
+]

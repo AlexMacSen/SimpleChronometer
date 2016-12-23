@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple Chronometer</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="save">Save value</string>
+    <string name="saved">Saved values:  </string>
+    <string name="view">View saved values</string>
+    <string name="clear">Clear values</string>
+    <string name="exit">Exit</string>
+    <string name="menu_exit">Are you sure you want to exit?</string>
+    <string name="menu_ok">OK</string>
+    <string name="menu_cancel">Cancel</string>
+
+    <string name="info_start">Start</string>
+    <string name="info_stop">Stop</string>
+    <string name="info_reset">Reset</string>
+    <string name="info_save">Save values</string>
+    <string name="info_view">View saved values</string>
+    <string name="info_clear">Saved values is cleared</string>
+    <string name="title_activity_result">View saved values</string>
+
+
+</resources>

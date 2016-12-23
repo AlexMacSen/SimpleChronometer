@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_7a6269382dbe282d49221dbd8aa1da5d339ea808.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_29996640ba7287f880520bc2705ef2dc6f92a1ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_9d8c0d3806499ec7389ae0d84d944a38a04bb17a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_3f77e93e5ed0a0d7276beffe8309c2818d2dc483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_29996640ba7287f880520bc2705ef2dc6f92a1ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f2bc7969b9ccc8475e1cbf107d310a861c5ff8c3">
+        <dex dex="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\pre-dexed\debug\instant-run_2747d8423f14dd1ecba842658b7408ce4de7076f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_7a6269382dbe282d49221dbd8aa1da5d339ea808.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_370e5dafc30578ac7c2124ef1d63db4eed421356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_370e5dafc30578ac7c2124ef1d63db4eed421356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="51a70c95eade50490cc36db51c1a48b148f5c746">
+        <dex dex="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_8aaed6e6fb0b92a9a19f6db78703973ed658ab12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_adb1c9a91aa152946d950044cc406d3da77e8f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_3f77e93e5ed0a0d7276beffe8309c2818d2dc483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_adb1c9a91aa152946d950044cc406d3da77e8f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="F:\AndroidStudioProjects\ChronometerApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_9d8c0d3806499ec7389ae0d84d944a38a04bb17a.jar" />
+    </item>
+
+</items>

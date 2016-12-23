@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    style="@style/LayoutOne">
+
+    <Chronometer
+        android:id="@+id/chronometer"
+        style="@style/ChronometrCount" />
+
+    <TextView
+            android:id="@+id/textView1"
+            style="@style/ButtonChronometrOne" />
+
+        <TextView
+            android:id="@+id/textView5"
+            style="@style/ButtonChronometrTwo" />
+
+        <LinearLayout
+            android:id="@+id/LinearLayout01"
+            style="@style/ButtonChronometrOne">
+
+
+            <ImageButton
+                android:id="@+id/button_start"
+                style="@style/ImageChronometrOne"
+                android:src="@drawable/button_blue_play"
+                android:background="@drawable/rounded_bt_start"
+                android:text="@string/start" />
+
+            <ImageButton
+                android:id="@+id/button_stop"
+                style="@style/ImageChronometrOne"
+                android:src="@drawable/button_blue_stop"
+                android:background="@drawable/rounded_bt_res_stop"
+                android:text="@string/stop" />
+
+            <ImageButton
+                android:id="@+id/button_reset"
+                style="@style/ImageChronometrOne"
+                android:src="@drawable/button_blue_repeat"
+                android:background="@drawable/rounded_bt_res_stop"
+                android:text="@string/reset" />
+
+            <ImageButton
+                android:id="@+id/save_results"
+                style="@style/ImageChronometrOne"
+                android:src="@drawable/button_blue_save"
+                android:background="@drawable/rounded_bt_save"
+                android:text="@string/save" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView10"
+            style="@style/ButtonChronometrOne" />
+
+        <TextView
+            android:id="@+id/textView8"
+            style="@style/ButtonChronometrTwo" />
+
+        <TextView
+            android:id="@+id/textView7"
+            style="@style/ButtonChronometrTwo" />
+
+        <TextView
+            android:id="@+id/textView4"
+            style="@style/ButtonChronometrTwo" />
+
+    </LinearLayout>

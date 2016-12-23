@@ -1,0 +1,55 @@
+<resources>
+    <!--
+           Base application theme for API 14+. This theme completely replaces
+           AppBaseTheme from BOTH res/values/styles.xml and
+           res/values-v11/styles.xml on API 14+ devices.
+       -->
+    <style name="AppBaseTheme" parent="android:Theme.WithActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style>
+
+    <style name="LayoutOne">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">#70e6e6fa</item>
+        <item name="android:gravity">bottom|center</item>
+
+    </style>
+
+    <style name="LayoutTwo">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="ButtonChronometrOne">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="ImageChronometrOne">
+        <item name="android:layout_width">70dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:layout_marginLeft">0dp</item>
+        <item name="android:layout_marginRight">1dp</item>
+
+    </style>
+
+    <style name="ButtonChronometrTwo">
+        <item name="android:textColor">@color/myCustomColorOthersBut</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="ChronometrCount">
+        <item name="android:textColor">@color/myCustomColorOthersBut</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">70sp</item>
+    </style>
+
+</resources>
