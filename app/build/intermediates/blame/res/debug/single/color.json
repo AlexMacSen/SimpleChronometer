@@ -1,11 +1,27 @@
 [
     {
+        "merged": "C:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Fujitsu\\.android\\build-cache\\877046abdbc6447d15950547861b69e594cf3429\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Fujitsu\\.android\\build-cache\\877046abdbc6447d15950547861b69e594cf3429\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Fujitsu\\.android\\build-cache\\877046abdbc6447d15950547861b69e594cf3429\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
         "source": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
         "source": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Fujitsu\\.android\\build-cache\\877046abdbc6447d15950547861b69e594cf3429\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chronometer.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\src\\main\\res\\menu\\chronometer.xml"
+    },
+    {
         "merged": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chronometer.xml",
         "source": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\menu\\chronometer.xml"
     }

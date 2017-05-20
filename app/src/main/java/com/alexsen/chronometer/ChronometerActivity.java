@@ -218,7 +218,11 @@ public class ChronometerActivity extends Activity implements OnClickListener {
 
         return super.onContextItemSelected(item);
     }
-
+    public void onBackPressed (){
+        dialogFragment = new Fragment1(
+                getString(R.string.menu_exit));
+        dialogFragment.show(getFragmentManager(), "dialog");
+    }
     public void doPositiveClick() {
         // close the connection to the database
         ChronometerApp.getDatabaseHelper().close();

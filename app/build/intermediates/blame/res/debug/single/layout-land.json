@@ -2,5 +2,9 @@
     {
         "merged": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\main.xml",
         "source": "F:\\AndroidStudioProjects\\ChronometerApp\\app\\src\\main\\res\\layout-land\\main.xml"
+    },
+    {
+        "merged": "C:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\main.xml",
+        "source": "C:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\src\\main\\res\\layout-land\\main.xml"
     }
 ]

@@ -1,0 +1,19 @@
+#Sat May 20 23:56:40 EEST 2017
+renamed.5=classes.dex
+renamed.4=classes3.dex
+renamed.3=classes4.dex
+renamed.2=classes5.dex
+renamed.1=classes2.dex
+renamed.0=classes6.dex
+base.5=C\:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_32cafcf508e728e0bdf78a88691fe17e80b963b7
+base.4=C\:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8463a8d5ac572b8e6bc8e1c5cc7b74080826447b
+base.3=C\:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_99e697fa6c3e34bf0567b8f2c8c035a9a1182841
+base.2=C\:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.0_aef5e105b4e3ef14f1e0e06f409bd2389d7936b8
+base.1=C\:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_729c137e14558848de46a5d70bd199b609d29e64
+base.0=C\:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.0_3f77e93e5ed0a0d7276beffe8309c2818d2dc483
+file.5=C\:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_32cafcf508e728e0bdf78a88691fe17e80b963b7\\classes.dex
+file.4=C\:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8463a8d5ac572b8e6bc8e1c5cc7b74080826447b\\classes.dex
+file.3=C\:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_99e697fa6c3e34bf0567b8f2c8c035a9a1182841\\classes.dex
+file.2=C\:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.0.0_aef5e105b4e3ef14f1e0e06f409bd2389d7936b8\\classes.dex
+file.1=C\:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_729c137e14558848de46a5d70bd199b609d29e64\\classes.dex
+file.0=C\:\\Android\\AndroidStudioProjects\\SimpleChronometer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.0.0_3f77e93e5ed0a0d7276beffe8309c2818d2dc483\\classes.dex

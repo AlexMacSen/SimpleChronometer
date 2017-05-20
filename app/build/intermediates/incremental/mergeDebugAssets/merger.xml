@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\Fujitsu\.android\build-cache\b889d85c0665ac4e3a8353c34c23c904417c8e67\output\assets"/></dataSet><dataSet config="main"><source path="C:\Android\AndroidStudioProjects\SimpleChronometer\app\src\main\assets"/><source path="C:\Android\AndroidStudioProjects\SimpleChronometer\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Android\AndroidStudioProjects\SimpleChronometer\app\src\debug\assets"/></dataSet></merger>
